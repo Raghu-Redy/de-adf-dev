@@ -1,0 +1,9 @@
+{
+	"name": "de-azure-ADF",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "108546f7-9031-47d3-8b3b-efe680a11258",
+		"tenantId": "53e28927-7a1a-4c44-b0f2-fbbad4c7df5f"
+	}
+}
